@@ -1,0 +1,13 @@
+openapi: 3.0.0
+info:
+  version: 1.0.0
+  title: Sample API
+  description: >-
+    A sample API that uses a sample-site as an example to demonstrate features in
+    the OpenAPI 3.0 specification
+servers:
+  - url: 'http://localhost:8003'
+
+externalDocs:
+  description: "Find out more about Swagger"
+  url: "http://swagger.io"
